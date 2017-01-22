@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+
+}
+
+div.column1 {
+	width: 900px;
+	margin: auto;
+}
+
+
+i.hobbies {
+	font-size: 12px;
+}
+
+a {
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #b30000;
+  width: 300px;
+  padding: 5px;
+  border-radius: 5px;
+
+}
+
+.footer {
+  font-size: 10px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  width: 900px;
+  margin: auto;
+}
+
+.col-wrapper{
+  width:900px; 
+  margin:0 auto;
+}
+
+.col-670{
+  width:450px;
+  float:left;
+}
+.col-250{
+  width:450px;
+  float:right;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #b30000;
+    margin: 1em 0;
+    padding: 0; 
+}
+
+
