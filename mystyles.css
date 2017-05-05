@@ -6,6 +6,9 @@ body {
   font-size: 13px;
 }
 
+ {
+    
+}
 
 div.column1 {
 	width: 900px;
@@ -17,7 +20,7 @@ i.hobbies {
 	font-size: 12px;
 }
 
-a {
+a.links {
 	color: #FFFFFF;
 	text-decoration: none;
 	background-color: #b30000;
