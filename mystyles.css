@@ -16,18 +16,9 @@ i.hobbies {
 	font-size: 12px;
 }
 
-a.list {
-  background-color: transparent;
-}
 
 a.links {
-	color: #FFFFFF;
-	text-decoration: none;
-	background-color: #b30000;
-  width: 300px;
-  padding: 5px;
-  border-radius: 5px;
-
+	color: #b30000;
 }
 
 .footer {
