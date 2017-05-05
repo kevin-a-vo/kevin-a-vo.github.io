@@ -16,6 +16,10 @@ i.hobbies {
 	font-size: 12px;
 }
 
+a.list {
+  background-color: transparent;
+}
+
 a.links {
 	color: #FFFFFF;
 	text-decoration: none;
