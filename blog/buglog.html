@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title> Kevin Vo</title>
+		<script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
+		<link rel="stylesheet" href="../mystyles.css">
+	</head>
+	<body>
+
+		<div class="col-wrapper">
+    		<div class="col-670">
+    			<header>
+					<h1>Kevin Vo</h1>
+					<img src="../avatar.jpg" alt = "Kevin Vo" style = 'width:114px;height86px;'>
+					<p> Stanford Economics '16</p>
+					<i class = "hobbies"> Data science. Music. Tennis.</i>
+					<p> <a class = "links" href="https://www.linkedin.com/in/kevin-vo-02900685"> LinkedIn </a></p>
+					<p> <a class = "links" href="https://medium.com/@kevin.a.vo"> Medium </a></p>
+					<p> <a class = "links" href="https://github.com/kevin-a-vo"> Github</a></p>
+					<p> <a class = "links" href="https://github.com/kevin-a-vo/blog/buglog.html"> Bug Log </a><p>
+				</header>
+    		</div>
+    		<div class="col-250">
+    			<h2>Bug Log</h2>
+				<h4>
+					<i> This is a culmination of all my programming mistakes at work. </i>
+				</h4>
+    			<p>
+					<i> 7/26/17 </i> <br> <br>
+				1. The python interpreter reads arguments from right to left.
+				When you define a function like the following. <br> <br>
+				<code class = "prettify">
+					def myfunction(arg1, arg2, arg3): <br />
+					&nbsp; print locals() <br> <br>
+					{"arg3": 3, "arg2": 2, 'arg1' = 1}
+				</code>
+				<br> <br>
+				2. You can rename columns of a pandas data frame with a dictionary.
+				The dictionary can include column names that do not exist in the frame.
+				They will just be ignored.
+				</p>
+				<hr>
+    		</div>
+		</div>
+		<div class = "footer">
+			Last Update: July 2, 2017
+		</div>
+	</body>
+</html>

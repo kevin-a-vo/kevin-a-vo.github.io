@@ -1,1 +1,0 @@
-A small error occurred in the data in Price quote, quarter 2, 2016 due to a misalignment of variables during processing. We have corrected this error. You can see all previous versions of this data on the previous versions page. We apologise for any inconvenience.
